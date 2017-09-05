@@ -17,7 +17,7 @@ Take a look at the source code provided to you, and map out how the different fi
 2. Implement the tasks listed above
 3. Check your that it works by looking at the index.html file in your favorit browser
 
-#Website
+# Website
 
 ![alt text](./img/website.png "test result")
 ![alt text](./img/add-new.png "test result")
