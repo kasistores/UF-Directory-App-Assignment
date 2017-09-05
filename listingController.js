@@ -33,7 +33,7 @@ angular.module('listings').controller('ListingsController', ['$scope', 'Listings
     $scope.deleteListing = function(index) {
       console.log("test test");
       var location = $scope.listings.indexOf(index);
-      if (location !== -1) {
+      if (location != -1) {
         $scope.listings.splice(location, 1);
       }
     };
